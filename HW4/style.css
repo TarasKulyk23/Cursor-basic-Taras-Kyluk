@@ -1,0 +1,405 @@
+.s1 {
+    position: absolute;
+    width: 1440px;
+    height: 500px;
+    left: 0px;
+    top: 0px;
+    background: #ED4C5C;
+}
+
+.h1S1 {
+    position: absolute;
+    width: 445px;
+    height: 107px;
+    left: 165px;
+    top: 122px;
+    margin: 0;
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 36px;
+    line-height: 43px;
+    color: #FFFFFF;
+}
+
+.s1Text {
+    position: absolute;
+    width: 445px;
+    height: 64px;
+    left: 165px;
+    top: 253px;
+    margin: 0;
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 140%;
+    text-align: justify;
+    color: #FFFFFF;
+}
+
+.vector {
+    position: absolute;
+    width: 32px;
+    height: 32px;
+    left: 163px;
+    top: 357px;
+}
+
+.vector1 {
+    position: absolute;
+    left: 9.38%;
+    right: 49.22%;
+    top: 10.78%;
+    bottom: 10.78%;
+}
+
+.vector1_1 {
+    position: absolute;
+    left: 16.15%;
+    right: 32.46%;
+    top: 6.25%;
+    bottom: 54.7%;
+}
+
+.vector1_2 {
+    position: absolute;
+    left: 60.62%;
+    right: 9.38%;
+    top: 37.41%;
+    bottom: 37.42%;
+}
+
+.vector1_3 {
+    position: absolute;
+    left: 16.15%;
+    right: 32.46%;
+    top: 54.7%;
+    bottom: 6.25%;
+}
+
+.vector2 {
+    position: absolute;
+    left: 220px;
+    top: 359px;
+}
+
+.vector3 {
+    position: absolute;
+    left: 273px;
+    top: 361px;
+}
+
+.photo1 {
+    position: absolute;
+    width: 445px;
+    height: 311px;
+    left: 735px;
+    top: 94px;
+    background: url(.jpg), #C4C4C4;
+    border-radius: 15px;
+}
+
+.photo2 {
+    position: absolute;
+    width: 383px;
+    height: 267px;
+    left: 841px;
+    top: 116px;
+    background: url(.jpg), #C4C4C4;
+    opacity: 0.5;
+    border-radius: 15px;
+}
+
+.photo3 {
+    position: absolute;
+    width: 383px;
+    height: 267px;
+    left: 691px;
+    top: 116px;
+    background: url(.jpg), #C4C4C4;
+    opacity: 0.5;
+    border-radius: 15px;
+}
+
+.s2 {
+    position: absolute;
+    width: 1440px;
+    height: 500px;
+    left: 0px;
+    top: 500px;
+    background: #FFFFFF;
+
+}
+
+.h1S2 {
+    position: absolute;
+    width: 445px;
+    height: 107px;
+    left: 176px;
+    top: 117px;
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 36px;
+    line-height: 43px;
+    color: #000000;
+    margin: 0;
+}
+
+.s2Text {
+    position: absolute;
+    width: 434px;
+    height: 64px;
+    left: 176px;
+    top: 213px;
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 140%;
+    text-align: justify;
+    color: #000000;
+    margin: 0;
+}
+
+.form {
+    position: absolute;
+    width: 540px;
+    height: 305px;
+    left: 735px;
+    top: 117px;
+}
+
+.firstName {
+    box-sizing: border-box;
+    position: absolute;
+    width: 255px;
+    height: 60px;
+    border: 1px solid #333333;
+    border-radius: 6px;
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    color: rgba(19, 39, 67, 0.5);
+    padding-left: 31px;
+}
+
+.lastName {
+    box-sizing: border-box;
+    position: absolute;
+    width: 255px;
+    height: 60px;
+    right: 0;
+    border: 1px solid #333333;
+    border-radius: 6px;
+    padding-left: 31px;
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    color: rgba(19, 39, 67, 0.5);
+}
+
+.phoneNumber {
+    box-sizing: border-box;
+    position: absolute;
+    width: 540px;
+    height: 60px;
+    border: 1px solid #333333;
+    border-radius: 6px;
+    top: 84px;
+    padding-left: 31px;
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    color: rgba(19, 39, 67, 0.5);
+}
+
+.select {
+    position: absolute;
+    width: 540px;
+    height: 60px;
+    top: 168px;
+    padding-left: 31px;
+    border: 1px solid #333333;
+    border-radius: 6px;
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    color: rgba(19, 39, 67, 0.5);
+}
+
+.submit {
+    box-sizing: border-box;
+    position: absolute;
+    width: 160px;
+    height: 50px;
+    left: 0;
+    top: 255px;
+    background: #ED4C5C;
+    border: 1.5px solid #ED4C5C;
+    border-radius: 6px;
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 17px;
+    text-transform: uppercase;
+    color: #FFFFFF;
+}
+
+.footer {
+    position: absolute;
+    width: 1440px;
+    height: 435px;
+    left: 0px;
+    top: 1045px;
+    background: #FAFAFA;
+}
+
+.address {
+    position: absolute;
+    left: 166px;
+    top: 85px;
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 22px;
+    color: #101010;
+    margin: 0;
+}
+
+.services {
+    position: absolute;
+    left: 450px;
+    top: 85px;
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 22px;
+    color: #101010;
+    margin: 0;
+}
+
+.getInTouch {
+    position: absolute;
+    left: 734px;
+    top: 85px;
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 22px;
+    color: #101010;
+    margin: 0;
+}
+
+.weSupport {
+    position: absolute;
+    left: 1022px;
+    top: 85px;
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 22px;
+    color: #101010;
+    margin: 0;
+}
+
+.textAddress {
+    position: absolute;
+    width: 254px;
+    height: 54px;
+    left: 166px;
+    top: 140px;
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 150%;
+    color: #101010;
+}
+
+.textServices {
+    position: absolute;
+    width: 254px;
+    height: 114px;
+    left: 450px;
+    top: 140px;
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 160%;
+    text-transform: capitalize;
+}
+
+.textEmail {
+    position: absolute;
+    width: 122px;
+    height: 14px;
+    left: 734px;
+    top: 140px;
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 14px;
+    color: #101010;
+}
+
+.textNumber {
+    position: absolute;
+    width: 96px;
+    height: 14px;
+    left: 734px;
+    top: 165px;
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 14px;
+    color: #121212
+}
+
+.social {
+    position: absolute;
+    width: 66px;
+    height: 14px;
+    left: 734px;
+    top: 199px;
+}
+
+.secure {
+    position: absolute;
+    width: 216px;
+    height: 31px;
+    left: 1028px;
+    top: 140px;
+    background: url(secure-p-1.png);
+}
+
+.copyright {
+    position: absolute;
+    width: 155px;
+    height: 14px;
+    left: 161px;
+    top: 335px;
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 14px;
+    color: #101010;
+}
