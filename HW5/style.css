@@ -1,0 +1,50 @@
+body {
+    background-color: rgb(64, 61, 61);
+    font-family: "Roboto";
+    color: rgb(174, 178, 182);
+    
+}
+
+table, tr{
+
+    border: 2px solid;
+    border-collapse: collapse;
+    border-color: rgb(43, 45, 45);
+
+}
+
+table {
+   margin-left: 35%;
+    width: 30%;
+    margin-top: 1%;
+    
+}
+tr {
+     display: flex;
+    
+    
+}
+
+.tdFile {
+    display: flex;
+    justify-content: flex-start;
+    width: 40%;
+}
+
+.Date {
+    display: flex;
+    justify-content: flex-start;
+    width: 40%;
+}
+
+.miniTd {
+    display: flex;
+    justify-content: flex-end;
+    width: 20%;
+}
+
+.search {
+    display: flex;
+    justify-content: flex-end;
+    width: 20%; 
+}
